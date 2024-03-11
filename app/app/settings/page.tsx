@@ -9,10 +9,10 @@ export default async function Page() {
   return (
     <Dashboard>
       <DashboardHeader>
-        <DashboardHeaderTitle>Tarefas</DashboardHeaderTitle>
+        <DashboardHeaderTitle>Configurações</DashboardHeaderTitle>
       </DashboardHeader>
       <DashboardMain>
-        <h1>tarefas</h1>
+        <h1>configurações</h1>
       </DashboardMain>
     </Dashboard>
   )
